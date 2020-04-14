@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Truth Table MAD</string>
+    <string name="header_text">Conjunction (AND)</string>
+    <string name="A">A</string>
+    <string name="B">B</string>
+    <string name="AB">A ^ B</string>
+    <string name="T">T</string>
+    <string name="F">F</string>
+
+    <string name="toast_message">You have %d correct answers</string>
+    <string name="btnSubmit">Submit</string>
+</resources>

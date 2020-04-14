@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Higher Lower Kotlin</string>
+    <string name="info_text">Guess if the next throw is going to be lower, equal or higher.</string>
+
+    <string name="lower">lower</string>
+    <string name="equals">equals</string>
+    <string name="higher">higher</string>
+    <string name="last_throw">Last Throw: %d</string>
+    <string name="dice">Dice</string>
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+</resources>
