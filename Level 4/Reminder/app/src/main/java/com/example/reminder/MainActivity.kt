@@ -74,9 +74,8 @@ class MainActivity : AppCompatActivity() {
                         withContext(Dispatchers.IO){
                             reminderRepository.insertReminder(reminder)
                         }
+                        getRemindersFromDatabase()
                     }
-                    getRemindersFromDatabase()
-
                 }
             }
         }
